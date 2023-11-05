@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+    background-image: url(/assets/images/pexels-pixabay-531880.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: aliceblue;
+}
+ul{
+    display: inline;
+
+}
+li{
+    margin-left: 500px;
+    display: inline;
+}
+a{
+
+    color: black;
+}
+
+.container {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
